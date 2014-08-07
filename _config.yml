@@ -1,6 +1,6 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Welcome to Operation Spark and Positive Space!
+email: scanderson515@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 baseurl: ""
 url: "http://yourdomain.com"
@@ -10,3 +10,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Server Settings
+port: 8080
+host: 0.0.0.0
