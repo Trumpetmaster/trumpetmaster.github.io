@@ -2,13 +2,37 @@ body {
     background: #808080;
     
 }
-
 nav {
     background: #343434;
+    height: 100vh;
+    position: fixed;
+    width: 300px;
+    left: -300px;
+    transition:left .5s;
 }
 nav a {
     color: #f9f9f9;
     font-family: sans-serif;
     text-decoration: none;
+    font-size:14px;
 }
-    
+nav a:hover{
+    font-weight: bold;
+}
+nav li {
+    margin: 0px 0px 8px 0px;
+}
+.stick-out-tab {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    background: #343434;
+    left: 100%;
+    top:0px;
+    border-radius:0px 8px 8px 0px;
+}
+nav:hover {
+    left: 0;
+    transition:left .5s;
+}
+

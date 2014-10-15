@@ -11,4 +11,8 @@ gh-pages/
 coverage
 .ruby-version
 .sass-cache
-.c9/
+.c9
+_site
+.sass-cache
+ 
+ 
