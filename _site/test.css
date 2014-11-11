@@ -1,5 +1,5 @@
 body {
-    background: #607890;
+    background: #808080;
     
 }
 nav {
@@ -11,8 +11,8 @@ nav {
     transition:left .5s;
 }
 nav a {
-    color: #031F09;
-    font-family: utopia;
+    color: #f9f9f9;
+    font-family: sans-serif;
     text-decoration: none;
     font-size:14px;
 }
