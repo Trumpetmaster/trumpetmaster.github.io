@@ -11,8 +11,8 @@ I have been involved in Operation Spark since the very beginning of time. I was 
 prototype boot camp. It was a five week bootcamp that focused on the foundations of coding.
              
             
-command-line apps using the programming language java-script. Spark has also partisipated 
-In addition, there were multiple show cases in which Spark participants made simple 
+In addition, there were multiple show cases in which Spark participants made simple command-line apps using the programming language java-script. Spark has also partisipated 
+
             
 in a hack-o-thon at Essence Fest in New Orleans,Lousiana. Fast forwarding to a more recent events,
 Spark had a Show case in which the participants made more advanced apps with 
