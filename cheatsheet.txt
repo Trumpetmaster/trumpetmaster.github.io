@@ -1,0 +1,7 @@
+TO START, RUN THE JEKYLL SERVER:
+
+jekyll serve --host $IP --port $PORT --watch
+
+TO STOP:
+
+ctrl-c

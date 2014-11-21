@@ -5,9 +5,39 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Oct 2014 23:19:32 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Oct 2014 23:19:32 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2014 20:21:35 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2014 20:21:35 +0000</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>All about Operation Spark!</title>
+        <description>&lt;p&gt;Hello World, My name is Shane C. Anderson and I am an official alumni for Operation Spark.I am 17 years and a Junior at International High School of New Orleans and a level One at NOCCA(New Orleans Center for Creative Arts) in the Classical Department.&lt;/p&gt;
+
+&lt;p&gt;I have been involved in Operation Spark since the very beginning of time. I was first introduced to the boot camp for Spark by Mikey Muhanna,from Positive Space. Afterwards,Mikey introduced me to  John Fraboni, the CEO and founder of Operation Spark, for the 
+prototype boot camp. It was a five week bootcamp that focused on the foundations of coding.&lt;/p&gt;
+
+&lt;p&gt;command-line apps using the programming language java-script. Spark has also partisipated 
+In addition, there were multiple show cases in which Spark participants made simple &lt;/p&gt;
+
+&lt;p&gt;in a hack-o-thon at Essence Fest in New Orleans,Lousiana. Fast forwarding to a more recent events,
+Spark had a Show case in which the participants made more advanced apps with 
+algoritms they explained to their test subjects while they played their game. &lt;/p&gt;
+
+&lt;p&gt;Our next show case will unfortunately be our final show case of the semester. My time with 
+Mikey, Sam Batten, Goerge Maur,and Steve Price enough for teaching me the way of coding and 
+me another passion. &lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 21 Nov 2014 15:20:05 +0000</pubDate>
+        <link>http://yourdomain.com/operation/spark/2014/11/21/operation-spark/</link>
+        <guid isPermaLink="true">http://yourdomain.com/operation/spark/2014/11/21/operation-spark/</guid>
+        
+        
+        <category>operation</category>
+        
+        <category>spark</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Positive Space and Operation Spark!</title>
